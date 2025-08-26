@@ -1,0 +1,41 @@
+.button-link {
+  display: inline-block;
+  padding: 12px 100px;
+  background-color: #e70909;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.button-link:hover {
+  background-color: #b30000;
+}
+#bang{
+    width: 290px;
+    font-family: Arial, sans-serif;
+    border-radius: 10px;
+      height: 450px;
+      border: 2px dashed #ffffff;
+      padding: 40px;          
+      margin: 50px auto;      
+      background-color: #ffffff;
+      box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); 
+      color:rgb(0, 0, 0)
+}
+#fgtpass{
+  text-align: center;
+}
+#sin{
+  text-align: center;
+}
+#remme {
+  padding: 5px 0px;
+}
+#yourname{
+  width: 300px;
+}
+#password{
+  width: 300px;
+}

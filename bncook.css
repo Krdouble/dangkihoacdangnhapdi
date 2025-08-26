@@ -1,0 +1,40 @@
+.button-link {
+  display: inline-block;
+  padding: 2px 10px;
+  background-color: #e70909;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.button-link:hover {
+  background-color: #b30000;
+}
+#bang{
+    width: 300px;
+    font-family: Arial, sans-serif;
+    border-radius: 10px;
+      height: 125px;
+      border: 2px dashed #000000;
+      padding: 40px;  
+      margin: 50px auto;     
+      background-color: #ffffff;
+      box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); 
+      color:rgb(0, 0, 0)
+}
+.button-link1 {
+  display: inline-block;
+  padding: 2px 10px;
+  background-color: #09e710;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.button-link1:hover {
+  background-color: #00b400;
+}
